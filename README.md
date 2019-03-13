@@ -18,13 +18,12 @@ The code was written by myself, and the validation tests, audit done by Parisee.
 ---------------------------------------
 ### Tests
 We have checked the code for (i). Photodiode response curve, and (ii). Spectrum of a quasar. The quasar spectrum as been shown below:
-![Quasarspec](Selection1.png) 
-
-![QuasarInf](Selection1_result.png)
+![Quasarspec](Example/Selection1.png) ![QuasarInf](Example/Selection1_result.png)
 
 The lines identified are as below:
-Wavelength from code ($\AA$) | Actual wavelength ($\AA$)
----------------------------- | --------------------------
+
+Wavelength from code | Actual wavelength
+-------------------- | --------------------
 4750.40 | 4746.38 
 4827.14 | 4821.68
 5416.80 | 5420.2
