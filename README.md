@@ -22,7 +22,7 @@ We have checked the code for (i). Photodiode response curve, and (ii). Spectrum 
 
 The lines identified are as below:
 
-Wavelength from code | Actual wavelength
+Wavelength from code (A) | Actual wavelength (A)
 -------------------- | --------------------
 4750.40 | 4746.38 
 4827.14 | 4821.68
