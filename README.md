@@ -18,7 +18,7 @@ The code was written by myself, and the validation tests, audit done by Parisee.
 ---------------------------------------
 ### Tests
 We have checked the code for (i). Photodiode response curve, and (ii). Spectrum of a quasar. The quasar spectrum as been shown below:
-![Quasarspec](Example/Selection1.png) ![QuasarInf](Example/Selection1_result.png)
+![Quasarspec](Example/Selection1.png) ![QuasarInf](Example/Selection_result.png)
 
 The lines identified are as below:
 
